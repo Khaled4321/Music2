@@ -1,0 +1,6 @@
+owner=562653700456185858
+prefix=D
+game=BOT BY PNEPEN BREAK Dplay
+stayinchannel=true
+songinstatus=false
+token=NTYyOTY5MjAwNzQyNzYwNDY4.XKShWw.LU387Dc54cp6d9qcEQoQ8s_Z9bw
